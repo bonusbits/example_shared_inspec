@@ -1,0 +1,9 @@
+name: example_shared_inspec
+title: InSpec Example Nginx Cookbook
+maintainer: levon.becker.github@bonusbits.com
+copyright: Bonus Bits
+license: MIT license
+summary: Run InSpec Tests for Nginx and PHP FPM
+version: 1.0.0
+supports:
+- os-family: linux
