@@ -1,4 +1,4 @@
-# Style tests. Rubocop
+# Rubocop
 namespace :style do
   require 'rubocop/rake_task'
   desc 'RuboCop'
